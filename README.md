@@ -7,3 +7,7 @@ https://github.com/jsankhesara/parseCSV.git
 To start the express server, run the following
 
 npm start
+
+postman URL
+
+http://localhost:8081/csv-file-upload
