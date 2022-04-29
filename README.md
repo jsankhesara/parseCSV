@@ -2,7 +2,7 @@
 
 Clone the repo and install the dependencies.
 
-https://github.com/jsankhesara/parseCSV.git
+https://github.com/jsankhesara/parseCSV
 
 To start the express server, run the following
 
